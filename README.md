@@ -1,0 +1,2 @@
+# Terminal-Config
+Fish + Starship
