@@ -11,6 +11,7 @@ $haskell\
 $rust\
 $ruby\
 $php\
+$dart\
 $package\
 $aws\
 $docker_context\
@@ -80,6 +81,10 @@ symbol = ' '
 [php]
 style = 'blue'
 symbol = ' '
+
+[dart]
+style = 'green'
+symbol = ' '
 
 [package]
 symbol = '󰏗 '
