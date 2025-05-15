@@ -72,3 +72,6 @@ if [ -t 1 ]; then
 exec fish
 fi
 ```
+
+## Install Font
+- [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CascadiaCode.zip)
