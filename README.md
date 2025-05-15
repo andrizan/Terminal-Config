@@ -67,7 +67,7 @@ pacman -S fish
 
 If all is well and working fine edit the file `~/.bashrc` adding these lines to make fish as the default shell:
 
-```
+```sh
 if [ -t 1 ]; then
 exec fish
 fi
