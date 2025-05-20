@@ -12,6 +12,7 @@ $rust\
 $ruby\
 $php\
 $dart\
+$bun\
 $package\
 $aws\
 $docker_context\
@@ -85,6 +86,10 @@ symbol = ' '
 [dart]
 style = 'green'
 symbol = ' '
+
+[bun]
+style = '#fbf0df'
+symbol = ' '
 
 [package]
 symbol = '󰏗 '
