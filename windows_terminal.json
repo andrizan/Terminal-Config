@@ -62,13 +62,6 @@
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             },
-            // {
-            //     "commandline": "%PROGRAMFILES%/Git/bin/bash.exe -i -l",
-            //     "guid": "{00000000-0000-0000-ba54-000000000002}",
-            //     "hidden": false,
-            //     "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
-            //     "name": "Git Bash"
-            // },
             {
                 "guid": "{fdad79a8-7e24-5ff3-82f4-bb3ae099e11c}",
                 "hidden": false,
