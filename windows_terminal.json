@@ -37,9 +37,9 @@
             "background": "#2E3436",
             "colorScheme": "OneDark",
             "font":
-                {
-                    "face": "Cascadia Mono NF"
-                },
+            {
+                "face": "Cascadia Mono NF"
+            },
             "startingDirectory": "."
         },
         "list":
@@ -62,13 +62,13 @@
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             },
-            {
-                "commandline": "%PROGRAMFILES%/Git/bin/bash.exe -i -l",
-                "guid": "{00000000-0000-0000-ba54-000000000002}",
-                "hidden": false,
-                "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
-                "name": "Git Bash"
-            },
+            // {
+            //     "commandline": "%PROGRAMFILES%/Git/bin/bash.exe -i -l",
+            //     "guid": "{00000000-0000-0000-ba54-000000000002}",
+            //     "hidden": false,
+            //     "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
+            //     "name": "Git Bash"
+            // },
             {
                 "guid": "{fdad79a8-7e24-5ff3-82f4-bb3ae099e11c}",
                 "hidden": false,
@@ -92,6 +92,18 @@
                 "hidden": false,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{9884e720-ed7a-5f3b-9741-0c4ddecee9c5}",
+                "hidden": false,
+                "name": "podman-machine-default",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
             }
         ]
     },
