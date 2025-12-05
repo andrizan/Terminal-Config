@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Alacritty]
+@="Open Alacritty Here"
+"Icon"="C:\\Users\\andrizan\\scoop\\shims\\alacritty.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Alacritty\command]
+@="C:\\Users\\andrizan\\scoop\\shims\\alacritty.exe --working-directory \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Alacritty\InprocServer32]
+@=""
